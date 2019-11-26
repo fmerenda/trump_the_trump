@@ -3,6 +3,9 @@
     "name": "Trump the Trump!",
     "description": "Make it so you never have to read that name again!",
     "version": "1.0",
+     "permissions": [
+    "activeTab"
+  ],
     "content_scripts": [
         {
             "matches": [
