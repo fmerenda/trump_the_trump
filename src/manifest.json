@@ -2,10 +2,7 @@
 "manifest_version": 2,
     "name": "Trump the Trump!",
     "description": "Make it so you never have to read that name again!",
-    "version": "1.0",
-     "permissions": [
-    "activeTab"
-  ],
+    "version": "1.1",
     "content_scripts": [
         {
             "matches": [
